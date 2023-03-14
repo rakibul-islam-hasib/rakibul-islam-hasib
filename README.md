@@ -13,7 +13,8 @@
 
 - ⚡ Fun fact **I am Funny**
 ## MERN 
-<img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/mern-stack-5363121-4488910.png" width="50">
+<img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/mern-stack-5363121-4488910.png" width="50">  
+<p><img src="./img/mongodb.png" width="45">&nbsp;&nbsp;<img src="./img/express.png" width="45">&nbsp;&nbsp;<img src="./img/nodejs.png" width="45">&nbsp;&nbsp;<img src="./img/react.png" width="45"></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
