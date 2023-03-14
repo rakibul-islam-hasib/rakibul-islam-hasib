@@ -12,6 +12,8 @@
 - 📫 How to reach me **admin@rakibul.tech**
 
 - ⚡ Fun fact **I am Funny**
+## MERN 
+<img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/mern-stack-5363121-4488910.png" width="50">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
