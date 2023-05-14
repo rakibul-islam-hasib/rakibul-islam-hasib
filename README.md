@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 💬 Ask me about **HTML , CSS , JS , REACT **
+- 💬 Ask me about **HTML , CSS , JS , REACT**
 
 - 📫 How to reach me **admin@rakibul.tech**
 
