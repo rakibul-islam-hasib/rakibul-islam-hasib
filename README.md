@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working at **Home**
 
-- 🌱 I’m currently learning **NEXT JS **
+- 🌱 I’m currently learning **NEXT JS**
 
 - 💬 Ask me about **HTML , CSS , JS , REACT**
 
