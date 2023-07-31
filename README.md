@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **HTML , CSS , JS , REACT**
 
-- 📫 How to reach me **admin@rakibul.tech**
+- 📫 How to reach me **rakibultech99@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
 ## MERN 
