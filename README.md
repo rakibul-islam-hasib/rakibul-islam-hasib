@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hasib Hossain</h1>
+<h1 align="center">Hi 👋, I'm Rakibul Islam (Hasib)</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=boraborhasib&label=Profile%20views&color=0e75b6&style=flat" alt="boraborhasib" /> </p>
@@ -20,7 +20,7 @@
 <p align="left">
 <a href="https://codepen.io/boraborhasib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="boraborhasib" height="30" width="40" /></a>
 <a href="https://twitter.com/netkinghasib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="netkinghasib" height="30" width="40" /></a>
-<a href="https://fb.com/hasib11500" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hasib11500" height="30" width="40" /></a>
+<a href="https://fb.com/itshasib35" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hasib11500" height="30" width="40" /></a>
 <a href="https://instagram.com/hasib.com.bd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hasib.com.bd" height="30" width="40" /></a>
 </p>
 
