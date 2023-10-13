@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **NEXT JS**
 
-- 💬 Ask me about **HTML , CSS , JS , REACT**
+- 💬 Ask me about **JS , REACT**
 
 - 📫 How to reach me **rakibultech99@gmail.com**
 
