@@ -51,5 +51,6 @@ Whether you're interested in collaboration, tech discussions, or simply sharing 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rakibul-islam-hasib)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rakibul-islam-hasib&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=rakibul-islam-hasib&date_format=M%20j%5B%2C%20Y%5D&card_width=447&card_height=185)](https://git.io/streak-stats)
 
 <!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rakibul-islam-hasib&" alt="rakibul-islam-hasib" /></p>-->
