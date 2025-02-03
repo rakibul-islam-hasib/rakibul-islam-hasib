@@ -16,8 +16,6 @@ I'm a junior software developer from **Bangladesh** with a passion for building 
 - **Cloud Services** like **Oracle Cloud** and **Google Cloud Platform** for efficient hosting solutions.  
 - **UI Libraries** including **Tailwind CSS**, **NativeWind**, and **ShaadCN** to create smooth and responsive user experiences.
 
-🔍 **I’m also interested in:**  
-- Exploring **AI-generated visuals** with a focus on **Bangladeshi themes** to give a unique, local twist to projects.
 
 💡 **Let’s connect and create something impactful together!**  
 Whether you're interested in collaboration, tech discussions, or simply sharing ideas, I'm always open to new connections. Feel free to reach out!
