@@ -20,6 +20,9 @@ I'm a junior software developer from **Bangladesh** with a passion for building 
 💡 **Let’s connect and create something impactful together!**  
 Whether you're interested in collaboration, tech discussions, or simply sharing ideas, I'm always open to new connections. Feel free to reach out!
 
+📩 **Reach Out:**  
+📧 Email: [hello@rakibs.com.bd](mailto:hello@rakibs.com.bd)  
+
 ## Technologies & Tools  
 <img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/mern-stack-5363121-4488910.png" width="50">  
 <p><img src="./img/mongodb.png" width="45">&nbsp;&nbsp;<img src="./img/express.png" width="45">&nbsp;&nbsp;<img src="./img/nodejs.png" width="45">&nbsp;&nbsp;<img src="./img/react.png" width="45"></p>
