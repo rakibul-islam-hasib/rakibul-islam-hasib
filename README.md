@@ -1,10 +1,10 @@
 <h1 align="center">Hello, I'm Rakibul Islam (Hasib) 👋</h1>
-<h3 align="center">Junior Software Developer at AiOpsCamp | MERN Stack | Next.js Enthusiast | Tech Explorer</h3>
+<h3 align="center"> Software Developer at AiOpsCamp | MERN Stack | Next.js Enthusiast | Tech Explorer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakibul-islam-hasib&label=Profile%20views&color=0e75b6&style=flat" alt="rakibul-islam-hasib" /> </p>
 
 👋 **Hi, I'm Hasib!**  
-I'm a junior software developer from **Bangladesh** with a passion for building clean, scalable web applications using the **MERN stack**. Although my academic background is in Humanities, my love for technology and coding has propelled me into the world of software engineering.
+I'm a software developer from **Bangladesh** with a passion for building clean, scalable web applications using the **MERN stack**. Although my academic background is in Humanities, my love for technology and coding has propelled me into the world of software engineering.
 
 🌱 **Currently, I’m diving deep into:**  
 - **Next.js** with a focus on server components and seamless client-server integration.  
