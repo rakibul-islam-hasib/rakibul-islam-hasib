@@ -9,7 +9,7 @@ I'm a software developer from **Bangladesh** with a passion for building clean, 
 🌱 **Currently, I’m diving deep into:**  
 - **Next.js** with a focus on server components and seamless client-server integration.  
 - **Database Management** with **Mongoose**, building efficient and scalable APIs.  
-- **Performance Optimization** for large-scale React apps using **Vite**.
+- **Performance Optimization** for large-scale React apps using **Next JS**.
 
 👨‍💻 **I have hands-on experience with:**  
 - **JavaScript & TypeScript** for robust, type-safe codebases.  
