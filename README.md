@@ -49,9 +49,8 @@ Whether you're interested in collaboration, tech discussions, or simply sharing 
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rakibul-islam-hasib)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rakibul-islam-hasib&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com?user=rakibul-islam-hasib&date_format=M%20j%5B%2C%20Y%5D&card_width=447&card_height=185)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rakibul-islam-hasib)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rakibul-islam-hasib&layout=compact)
+![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=rakibul-islam-hasib)
 
 <!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rakibul-islam-hasib&" alt="rakibul-islam-hasib" /></p>-->
