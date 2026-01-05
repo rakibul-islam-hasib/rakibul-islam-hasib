@@ -49,8 +49,8 @@ Whether you're interested in collaboration, tech discussions, or simply sharing 
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rakibul-islam-hasib)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rakibul-islam-hasib&layout=compact)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rakibul-islam-hasib) -->
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rakibul-islam-hasib&layout=compact) -->
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=rakibul-islam-hasib)
 
 <!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rakibul-islam-hasib&" alt="rakibul-islam-hasib" /></p>-->
