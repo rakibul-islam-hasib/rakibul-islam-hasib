@@ -42,7 +42,7 @@ passions:
   - "Exploring new technologies and frameworks"
   - "Turning ideas into impactful digital products"
 
-fun_fact: "My journey from Humanities to Software Engineering proves that passion beats background! 🚀"
+fun_fact: "My journey from Political Science to Software Engineering proves that passion beats background! 🚀"
 ```
 
 <br/>
