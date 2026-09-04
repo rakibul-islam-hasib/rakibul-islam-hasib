@@ -143,7 +143,6 @@ fun_fact: "My journey from Political Science to Software Engineering proves that
 <p align="center">
   <a href="https://github.com/rakibul-islam-hasib">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rakibul-islam-hasib&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&ring_color=6C63FF" alt="GitHub Stats" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakibul-islam-hasib&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9" alt="Top Languages" />
   </a>
 </p>
 
