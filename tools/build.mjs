@@ -74,15 +74,12 @@ const label = (str, x, y, cls = "acc") => text("serif", str, x, y, 21, {}, `clas
 
 /* ───────────────────────── banner ───────────────────────── */
 {
-  const W = 1200, H = 470;
+  const W = 1200, H = 420;
 
   // Deterministic randomness, so rebuilding gives the same artwork.
   let seed = 20261119;
   const rand = () => ((seed = (seed * 1664525 + 1013904223) >>> 0) / 2 ** 32);
 
-  /* Left: stacked poster headline. */
-  const L1 = textPath("display", "Rakibul", 60, 236, 132, { track: -0.045 });
-  const L2 = textPath("display", "Islam", 60, 352, 132, { track: -0.045 });
 
   /* Right: a contribution graph whose squares spell HASIB. */
   const GLYPHS = {
@@ -95,14 +92,19 @@ const label = (str, x, y, cls = "acc") => text("serif", str, x, y, 21, {}, `clas
   const word = "HASIB", PAD = 1;
   const SPACE = 2;                                   // empty columns between letters
   const cols = PAD * 2 + word.length * 5 + (word.length - 1) * SPACE;
-  const CELL = 11, GAP = 3, STEP = CELL + GAP;
+  const CELL = 10, GAP = 3, STEP = CELL + GAP;
   const gridW = cols * STEP - GAP, gridH = 7 * STEP - GAP;
 
-  const card = { x: 0, y: 124, w: 0, h: 240 };
+  const card = { x: 0, y: 90, w: 0, h: 240 };
   const dayW = 32;
   card.w = 26 + dayW + gridW + 26;
   card.x = W - 44 - card.w;
   const gx = card.x + 26 + dayW, gy = card.y + 86;
+
+  /* Left: the name on one line, as large as the space beside the card allows. */
+  const NX = 60, TRACK = -0.04;
+  const nameSize = Math.min(104, (100 * (card.x - NX - 48)) / measure("display", "Rakibul Islam", 100, TRACK));
+  const NAME = textPath("display", "Rakibul Islam", NX, 236, nameSize, { track: TRACK });
 
   const LEVEL = ["#161B26", "#2A1660", "#5B21B6", "#8B5CF6", "#B9A3FF"];
   const mix = (a, b, t) => Math.round(a + (b - a) * t).toString(16).padStart(2, "0");
@@ -176,10 +178,9 @@ const label = (str, x, y, cls = "acc") => text("serif", str, x, y, 21, {}, `clas
     <rect width="${W}" height="${H}" filter="url(#grain)" opacity=".05"/>
 
     <!-- Headline -->
-    ${text("serif", "Hello, I’m", 66, 98, 32, {}, 'fill="#9AA4B5"')}
-    <path d="${L1.d}" fill="url(#ink)"/>
-    <path d="${L2.d}" fill="url(#ink)"/>
-    ${runs([["serif", "Software developer ", 'fill="#E6EAF2"'], ["serif", "at AiOpsCamp", 'fill="#8C96AA"']], 66, 414, 34).svg}
+    ${text("serif", "Hello, I’m", 64, 150, 32, {}, 'fill="#9AA4B5"')}
+    <path d="${NAME.d}" fill="url(#ink)"/>
+    ${runs([["serif", "Software developer ", 'fill="#E6EAF2"'], ["serif", "at AiOpsCamp", 'fill="#8C96AA"']], 64, 294, 34).svg}
 
     <!-- Contribution graph that spells the name -->
     <rect x="${card.x}" y="${card.y}" width="${card.w}" height="${card.h}" rx="20" fill="#0A0E1A" fill-opacity=".55"/>
