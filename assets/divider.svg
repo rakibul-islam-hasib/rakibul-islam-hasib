@@ -1,13 +1,26 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="24" viewBox="0 0 1200 24" fill="none" aria-hidden="true">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="28" viewBox="0 0 1200 28" fill="none" aria-hidden="true">
   <defs>
-    <linearGradient id="line" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#8B5CF6" stop-opacity="0"/>
-      <stop offset="0.35" stop-color="#8B5CF6" stop-opacity="0.7"/>
-      <stop offset="0.65" stop-color="#22D3EE" stop-opacity="0.7"/>
-      <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
-    </linearGradient>
+    <linearGradient id="l" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse"><stop offset="0" class="s-a" stop-opacity="0"/><stop offset=".35" class="s-a"/><stop offset=".65" class="s-b"/><stop offset="1" class="s-b" stop-opacity="0"/></linearGradient>
   </defs>
-  <path d="M0 12 H582 M618 12 H1200" stroke="url(#line)" stroke-width="1.5"/>
-  <rect x="594" y="6" width="12" height="12" rx="2" transform="rotate(45 600 12)" fill="none" stroke="#8B5CF6" stroke-width="1.5"/>
-  <circle cx="600" cy="12" r="2" fill="#22D3EE"/>
+  <style>
+    .card { fill: #F6F8FA; stroke: #D0D7DE; }
+    .chip { fill: #FFFFFF; stroke: #D0D7DE; }
+    .t1 { fill: #1F2328; } .t2 { fill: #59636E; } .t3 { fill: #8C959F; }
+    .acc { fill: #6D28D9; } .ok { fill: #1A7F37; }
+    .rule { stroke: #D0D7DE; } .wire { stroke: #B6BEC8; }
+    .node { fill: #FFFFFF; stroke: #B6BEC8; }
+    .ring { stroke: #6D28D9; }
+    .s-a { stop-color: #6D28D9; } .s-b { stop-color: #0E7490; }
+    .s-glow { stop-color: #8B5CF6; } .s-glow2 { stop-color: #06B6D4; }
+    @media (prefers-color-scheme: dark) {
+      .card { fill: #0F1420; stroke: #262D3A; }
+      .chip { fill: #161B26; stroke: #2B3342; }
+      .t1 { fill: #F0F3F8; } .t2 { fill: #9AA4B5; } .t3 { fill: #5D6780; }
+      .acc { fill: #B9A3FF; } .ok { fill: #3FB950; }
+      .rule { stroke: #262D3A; } .wire { stroke: #3A4356; }
+      .node { fill: #0F1420; stroke: #4A5468; }
+      .ring { stroke: #A78BFA; }
+      .s-a { stop-color: #A78BFA; } .s-b { stop-color: #22D3EE; }
+    }</style>
+  <path d="M0 14H420 q 7.5 -0.65 15 0 q 7.5 1.95 15 0 q 7.5 -3.21 15 0 q 7.5 4.42 15 0 q 7.5 -5.56 15 0 q 7.5 6.59 15 0 q 7.5 -7.52 15 0 q 7.5 8.31 15 0 q 7.5 -8.97 15 0 q 7.5 9.47 15 0 q 7.5 -9.81 15 0 q 7.5 9.98 15 0 q 7.5 -9.98 15 0 q 7.5 9.81 15 0 q 7.5 -9.47 15 0 q 7.5 8.97 15 0 q 7.5 -8.31 15 0 q 7.5 7.52 15 0 q 7.5 -6.59 15 0 q 7.5 5.56 15 0 q 7.5 -4.42 15 0 q 7.5 3.21 15 0 q 7.5 -1.95 15 0 q 7.5 0.65 15 0 H1200" stroke="url(#l)" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>
