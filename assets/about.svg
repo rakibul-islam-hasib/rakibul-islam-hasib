@@ -1,0 +1,167 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="500" viewBox="0 0 1200 500" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">About Rakibul Islam Hasib</title>
+  <desc id="desc">Journey: Political Science, self-taught web development, full-stack MERN and Next.js, now Software Developer at AiOpsCamp. Currently learning Server Components and the App Router, database architecture with Mongoose, and React performance. Based in Bangladesh, UTC+6. Motto: passion beats background.</desc>
+
+  <defs>
+    <linearGradient id="grad">
+      <stop offset="0" class="s-a"/>
+      <stop offset="1" class="s-b"/>
+    </linearGradient>
+    <linearGradient id="gradLine" x1="96" y1="0" x2="654" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" class="s-a"/>
+      <stop offset="1" class="s-b"/>
+    </linearGradient>
+    <radialGradient id="glowA" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(700 0) scale(420 260)">
+      <stop offset="0" class="s-glow" stop-opacity="0.22"/>
+      <stop offset="1" class="s-glow" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1200 262) scale(380 240)">
+      <stop offset="0" class="s-glow2" stop-opacity="0.18"/>
+      <stop offset="1" class="s-glow2" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="cA"><rect width="752" height="262" rx="20"/></clipPath>
+    <clipPath id="cB"><rect x="768" width="432" height="262" rx="20"/></clipPath>
+  </defs>
+
+  <style>
+    .sans { font-family: 'Inter', 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif; }
+    .mono { font-family: 'JetBrains Mono', 'SF Mono', SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace; }
+
+    /* Light theme (default) */
+    .card { fill: #F6F8FA; stroke: #D0D7DE; }
+    .chip { fill: #FFFFFF; stroke: #D0D7DE; }
+    .t1 { fill: #1F2328; } .t2 { fill: #57606A; } .t3 { fill: #8C959F; }
+    .acc { fill: #7C3AED; } .ok { fill: #1A7F37; }
+    .rule { stroke: #D0D7DE; }
+    .node { fill: #F6F8FA; stroke: #8C959F; }
+    .ring { stroke: #7C3AED; }
+    .s-a { stop-color: #7C3AED; } .s-b { stop-color: #0891B2; }
+    .s-glow { stop-color: #8B5CF6; } .s-glow2 { stop-color: #06B6D4; }
+
+    @media (prefers-color-scheme: dark) {
+      .card { fill: #0F1420; stroke: #262D3A; }
+      .chip { fill: #161B26; stroke: #2B3342; }
+      .t1 { fill: #F0F3F8; } .t2 { fill: #9AA4B5; } .t3 { fill: #5D6780; }
+      .acc { fill: #A78BFA; } .ok { fill: #3FB950; }
+      .rule { stroke: #262D3A; }
+      .node { fill: #0F1420; stroke: #5D6780; }
+      .ring { stroke: #A78BFA; }
+      .s-a { stop-color: #A78BFA; } .s-b { stop-color: #22D3EE; }
+    }
+
+    .flow  { stroke-dasharray: 4 10; animation: flow 1.2s linear infinite; }
+    .ping  { transform-box: fill-box; transform-origin: center; animation: ping 2.4s cubic-bezier(0,0,.2,1) infinite; }
+    .spin  { transform-box: fill-box; transform-origin: center; animation: spin 1.6s linear infinite; }
+    .blink { animation: blink 2s ease-in-out infinite; }
+
+    @keyframes flow  { to { stroke-dashoffset: -28; } }
+    @keyframes ping  { 0% { transform: scale(1); opacity: .7; } 80%, 100% { transform: scale(2.6); opacity: 0; } }
+    @keyframes spin  { to { transform: rotate(360deg); } }
+    @keyframes blink { 0%, 100% { opacity: 1; } 50% { opacity: .3; } }
+
+    @media (prefers-reduced-motion: reduce) {
+      .flow, .ping, .spin, .blink { animation: none; }
+      .ping { opacity: 0; }
+    }
+  </style>
+
+  <!-- ───────── Card A · Journey ───────── -->
+  <g clip-path="url(#cA)">
+    <rect width="752" height="262" rx="20" class="card"/>
+    <rect width="752" height="262" fill="url(#glowA)"/>
+  </g>
+  <rect x="0.5" y="0.5" width="751" height="261" rx="19.5" class="card" fill="none"/>
+  <text x="32" y="46" class="mono acc" font-size="12" letter-spacing="2.4">THE JOURNEY</text>
+  <text x="32" y="86" class="sans t1" font-size="26" font-weight="800" letter-spacing="-0.6">From Political Science to <tspan fill="url(#grad)">Software Engineering</tspan></text>
+  <text x="32" y="114" class="sans t2" font-size="15">No CS degree. Just curiosity, consistency, and a lot of code.</text>
+
+  <line x1="96" y1="168" x2="654" y2="168" class="rule" stroke-width="2"/>
+  <line x1="96" y1="168" x2="654" y2="168" stroke="url(#gradLine)" stroke-width="2" stroke-opacity="0.45"/>
+  <line x1="96" y1="168" x2="654" y2="168" stroke="url(#gradLine)" stroke-width="2.5" stroke-linecap="round" class="flow"/>
+
+  <g class="sans" text-anchor="middle">
+    <circle cx="96"  cy="168" r="7" class="node" stroke-width="2"/>
+    <circle cx="282" cy="168" r="7" class="node" stroke-width="2"/>
+    <circle cx="468" cy="168" r="7" class="node" stroke-width="2"/>
+    <circle cx="654" cy="168" r="9" class="ring ping" fill="none" stroke-width="2"/>
+    <circle cx="654" cy="168" r="9" fill="url(#grad)"/>
+
+    <text x="96"  y="206" class="t1" font-size="15" font-weight="700">Humanities</text>
+    <text x="282" y="206" class="t1" font-size="15" font-weight="700">Self-taught</text>
+    <text x="468" y="206" class="t1" font-size="15" font-weight="700">Full-stack</text>
+    <text x="654" y="206" font-size="15" font-weight="700" fill="url(#grad)">AiOpsCamp</text>
+
+    <g class="mono t2" font-size="12">
+      <text x="96"  y="228">Political Science</text>
+      <text x="282" y="228">HTML · CSS · JS</text>
+      <text x="468" y="228">MERN · Next.js</text>
+      <text x="654" y="228">Software Developer</text>
+    </g>
+  </g>
+
+  <!-- ───────── Card B · Now ───────── -->
+  <g clip-path="url(#cB)">
+    <rect x="768" width="432" height="262" rx="20" class="card"/>
+    <rect x="768" width="432" height="262" fill="url(#glowB)"/>
+  </g>
+  <rect x="768.5" y="0.5" width="431" height="261" rx="19.5" class="card" fill="none"/>
+  <circle cx="805" cy="42" r="4" class="ok blink"/>
+  <text x="818" y="46" class="mono acc" font-size="12" letter-spacing="2.4">NOW · SHIPPING</text>
+  <text x="800" y="96" class="sans t1" font-size="30" font-weight="800" letter-spacing="-0.8">Software Developer</text>
+  <text x="800" y="134" class="sans" font-size="30" font-weight="800" letter-spacing="-0.8" fill="url(#grad)">@ AiOpsCamp</text>
+  <text x="800" y="168" class="sans t2" font-size="15">Building fast, scalable web applications.</text>
+
+  <g class="mono t1" font-size="12">
+    <rect x="800" y="194" width="74" height="30" rx="15" class="chip"/>
+    <text x="837" y="213" text-anchor="middle">Next.js</text>
+    <rect x="882" y="194" width="74" height="30" rx="15" class="chip"/>
+    <text x="919" y="213" text-anchor="middle">Node.js</text>
+    <rect x="964" y="194" width="74" height="30" rx="15" class="chip"/>
+    <text x="1001" y="213" text-anchor="middle">MongoDB</text>
+    <rect x="1046" y="194" width="96" height="30" rx="15" class="chip"/>
+    <text x="1094" y="213" text-anchor="middle">TypeScript</text>
+  </g>
+
+  <!-- ───────── Card C · Learning ───────── -->
+  <rect x="0.5" y="278.5" width="391" height="221" rx="19.5" class="card"/>
+  <text x="32" y="322" class="mono acc" font-size="12" letter-spacing="2.4">CURRENTLY LEARNING</text>
+  <g class="sans t1" font-size="16">
+    <circle cx="42" cy="366" r="7" class="rule" stroke-width="2" fill="none"/>
+    <circle cx="42" cy="366" r="7" class="ring spin" stroke-width="2" fill="none" stroke-dasharray="11 33" stroke-linecap="round"/>
+    <text x="62" y="371">Server Components &amp; App Router</text>
+
+    <circle cx="42" cy="408" r="7" class="rule" stroke-width="2" fill="none"/>
+    <circle cx="42" cy="408" r="7" class="ring spin" stroke-width="2" fill="none" stroke-dasharray="11 33" stroke-linecap="round" style="animation-delay:-.5s"/>
+    <text x="62" y="413">Database architecture · Mongoose</text>
+
+    <circle cx="42" cy="450" r="7" class="rule" stroke-width="2" fill="none"/>
+    <circle cx="42" cy="450" r="7" class="ring spin" stroke-width="2" fill="none" stroke-dasharray="11 33" stroke-linecap="round" style="animation-delay:-1s"/>
+    <text x="62" y="455">React performance optimization</text>
+  </g>
+
+  <!-- ───────── Card D · Based in ───────── -->
+  <rect x="408.5" y="278.5" width="383" height="221" rx="19.5" class="card"/>
+  <text x="440" y="322" class="mono acc" font-size="12" letter-spacing="2.4">BASED IN</text>
+  <text x="440" y="384" class="sans t1" font-size="32" font-weight="800" letter-spacing="-0.8">Bangladesh</text>
+  <text x="440" y="412" class="mono t2" font-size="13">UTC+6 · Asia/Dhaka</text>
+  <circle cx="446" cy="456" r="4" class="ok"/>
+  <text x="458" y="461" class="sans t2" font-size="14">Open to collaborations</text>
+
+  <g>
+    <circle cx="694" cy="400" r="66" class="rule" stroke-dasharray="2 6" fill="none"/>
+    <circle cx="694" cy="400" r="44" class="rule" fill="none"/>
+    <circle cx="694" cy="400" r="22" class="rule" fill="none"/>
+    <line x1="628" y1="400" x2="760" y2="400" class="rule"/>
+    <line x1="694" y1="334" x2="694" y2="466" class="rule"/>
+    <circle cx="694" cy="400" r="8" class="ring ping" fill="none" stroke-width="2"/>
+    <circle cx="694" cy="400" r="6" fill="url(#grad)"/>
+  </g>
+
+  <!-- ───────── Card E · Motto ───────── -->
+  <rect x="808.5" y="278.5" width="391" height="221" rx="19.5" class="card"/>
+  <text x="840" y="322" class="mono acc" font-size="12" letter-spacing="2.4">MOTTO</text>
+  <text x="1176" y="420" class="sans" font-size="150" font-weight="800" text-anchor="end" fill="url(#grad)" fill-opacity="0.16">”</text>
+  <text x="840" y="384" class="sans t1" font-size="30" font-weight="800" letter-spacing="-0.8">Passion beats</text>
+  <text x="840" y="420" class="sans" font-size="30" font-weight="800" letter-spacing="-0.8" fill="url(#grad)">background.</text>
+  <text x="840" y="460" class="mono t2" font-size="12">Political Science → Code</text>
+</svg>
